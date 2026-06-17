@@ -5,8 +5,3 @@ edition = "2024"
 
 [dependencies]
 typenum = "1.20.0"
-
-
-[[bin]]
-name = "basics"
-path = "examples/basics.rs"
